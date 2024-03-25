@@ -64,10 +64,8 @@ GitHub Copilot Voice enables voice-enabled code collaboration with GitHub Copilo
 - Wide range of voice commands
 
 
-## Google Chrome Eztensions
+## Google Chrome Extensions
 - [harpa.ai](https://harpa.ai/)
-
-- [GitHub Repository](https://github.com/blackbox/ai-code-generation)
 
 ## Useful AI Chat Websites
 
